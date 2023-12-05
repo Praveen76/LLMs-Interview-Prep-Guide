@@ -41,7 +41,5 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use, 
 
 ---
 
-**Note**: The information provided in this repository is based on available knowledge up to January 2022. Make sure to check for updates and additional resources to stay current with the latest developments in the field of Large Language Models.
-```
-
-This template provides a basic structure that you can customize with specific details about your repository and its content.
+## **About Me**:
+I’m a seasoned Data Scientist and founder of [TowardsMachineLearning.Org](https://towardsmachinelearning.org/). I've worked on various Machine Learning, NLP, and cutting-edge deep learning frameworks to solve numerous business problems.
