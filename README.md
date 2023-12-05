@@ -33,7 +33,7 @@ Your contributions are highly valued! If you have additional interview questions
 3. Make your contributions.
 4. Submit a pull request.
 
-Please ensure that your contributions adhere to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md).
+Please ensure that your contributions adhere to the [Contributor Covenant Code of Conduct](https://github.com/EthicalSource/contributor_covenant/blob/release/CODE_OF_CONDUCT.md).
 
 ## License
 
